@@ -1,0 +1,39 @@
+body {  
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: grey;
+  padding: 20px;
+}
+
+.headerimg{
+  height: 5%;
+  width: 3%;
+}
+
+.h1{
+  color: aqua;
+  font: size 60px;
+}
+
+.h2{
+  color:aqua
+}
+
+.flex-container {
+color: aqua;
+list-style-type: none;
+padding: 0px;
+  display: flex;
+  width: 1300px;
+  justify-content: flex-end;
+}
+
+li:hover {
+  background-color: aqua;
+  margin-bottom: 10px;
+
+}
+
+h2{
+  font-size: 5px;
+}
+
